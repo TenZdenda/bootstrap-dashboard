@@ -1,1 +1,2 @@
-bootstrap-dashboard
+# Bootstrap dashboard
+School project
